@@ -1,0 +1,19 @@
+
+node_modules/
+dist/
+*.txt
+*.class
+
+
+*.jar
+
+target/
+dist/
+
+# JetBrains IDE
+.idea/
+
+
+.parcel-cache
+
+_redirects
